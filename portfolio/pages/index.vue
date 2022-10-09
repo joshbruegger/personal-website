@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1 class="text-bold bg-violet-900">Hello world!</h1>
+        <Landing />
     </div>
 </template>
 
