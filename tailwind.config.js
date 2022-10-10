@@ -10,7 +10,10 @@ module.exports = {
   ],
   theme: {
     extend: {
-      fontFamily: ["Roboto", "sans-serif"]
+      fontFamily: {
+        'body': 'Roboto, sans-serif',
+        'display': 'Allerta, sans-serif'
+      }
     },
   },
   plugins: [],
