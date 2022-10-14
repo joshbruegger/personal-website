@@ -48,7 +48,8 @@
             </div>
             <nuxt-link
                 class=" pointer-events-auto py-2 px-7 mr-10 lg:mr-24 border-2 border-white rounded-full font-medium text-2xl hover:bg-white hover:text-black cursor-pointer transition-all duration-300">
-                GET IN TOUCH
+                WORK IN PROGRESS
+                <!-- GET IN TOUCH -->
             </nuxt-link>
         </div>
 
