@@ -1,16 +1,6 @@
 <template>
     <section class="h-screen w-screen flex items-center justify-center bg-[#00131C] text-white">
 
-        <!-- <div class="absolute left-1/2 -ml-0.5 w-0.5 h-screen bg-gray-600">
-            <h1 class="hidden 2XL:block ">XXL</h1>
-            <h1 class="hidden xl:block ">XL</h1>
-            <h1 class="hidden lg:block ">Large</h1>
-            <h1 class="hidden md:block ">Medium</h1>
-            <h1 class="">Small</h1>
-        </div> -->
-
-
-
         <!-- hero -->
         <div class="absolute w-screen h-screen flex justify-center">
             <img class="self-end h-[60%] lg:h-[80%] object-cover" src="/hero.webp" alt="Stylized drawing of Josh">
